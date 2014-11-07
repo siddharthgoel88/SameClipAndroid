@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SameClip</string>
+    <string name="copy_button">Copy!!</string>
+    <string name="default_text">Default</string>
+
+</resources>
